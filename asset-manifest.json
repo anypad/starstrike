@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e354c6e0.chunk.css",
-    "main.js": "/static/js/main.622c4988.chunk.js",
-    "main.js.map": "/static/js/main.622c4988.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e1ea1964.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e1ea1964.js.map",
-    "static/js/2.be0303e4.chunk.js": "/static/js/2.be0303e4.chunk.js",
-    "static/js/2.be0303e4.chunk.js.map": "/static/js/2.be0303e4.chunk.js.map",
-    "static/js/3.f93d5225.chunk.js": "/static/js/3.f93d5225.chunk.js",
-    "static/js/3.f93d5225.chunk.js.map": "/static/js/3.f93d5225.chunk.js.map",
+    "main.css": "/static/css/main.c59929fe.chunk.css",
+    "main.js": "/static/js/main.b0e65496.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.426d880d.js",
+    "static/js/2.02e39d52.chunk.js": "/static/js/2.02e39d52.chunk.js",
+    "static/js/3.6953d71c.chunk.js": "/static/js/3.6953d71c.chunk.js",
     "static/js/4.8b1b8305.chunk.js": "/static/js/4.8b1b8305.chunk.js",
-    "static/js/4.8b1b8305.chunk.js.map": "/static/js/4.8b1b8305.chunk.js.map",
     "static/js/5.1201bcf5.chunk.js": "/static/js/5.1201bcf5.chunk.js",
-    "static/js/5.1201bcf5.chunk.js.map": "/static/js/5.1201bcf5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e354c6e0.chunk.css.map": "/static/css/main.e354c6e0.chunk.css.map",
-    "static/js/2.be0303e4.chunk.js.LICENSE.txt": "/static/js/2.be0303e4.chunk.js.LICENSE.txt",
-    "static/js/3.f93d5225.chunk.js.LICENSE.txt": "/static/js/3.f93d5225.chunk.js.LICENSE.txt",
+    "static/js/2.02e39d52.chunk.js.LICENSE.txt": "/static/js/2.02e39d52.chunk.js.LICENSE.txt",
+    "static/js/3.6953d71c.chunk.js.LICENSE.txt": "/static/js/3.6953d71c.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/background38416.90f957bb.png",
     "static/media/border38473.3668849e.png": "/static/media/border38473.3668849e.png",
     "static/media/border84.84d920ee.png": "/static/media/border84.84d920ee.png",
@@ -33,9 +26,9 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1ea1964.js",
-    "static/js/2.be0303e4.chunk.js",
-    "static/css/main.e354c6e0.chunk.css",
-    "static/js/main.622c4988.chunk.js"
+    "static/js/runtime-main.426d880d.js",
+    "static/js/2.02e39d52.chunk.js",
+    "static/css/main.c59929fe.chunk.css",
+    "static/js/main.b0e65496.chunk.js"
   ]
 }
