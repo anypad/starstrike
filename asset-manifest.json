@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cfea134.chunk.css",
-    "main.js": "/static/js/main.7de65058.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.7f90d6c5.js",
-    "static/js/2.bbb248f6.chunk.js": "/static/js/2.bbb248f6.chunk.js",
-    "static/js/3.a596a6d5.chunk.js": "/static/js/3.a596a6d5.chunk.js",
+    "main.css": "/static/css/main.83bdbede.chunk.css",
+    "main.js": "/static/js/main.7d4a58f9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.ed5605d9.js",
+    "static/js/2.c9a43e49.chunk.js": "/static/js/2.c9a43e49.chunk.js",
+    "static/js/3.1a1e2f7c.chunk.js": "/static/js/3.1a1e2f7c.chunk.js",
     "static/js/4.3a77d900.chunk.js": "/static/js/4.3a77d900.chunk.js",
     "static/js/5.39ad0183.chunk.js": "/static/js/5.39ad0183.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.bbb248f6.chunk.js.LICENSE.txt": "/static/js/2.bbb248f6.chunk.js.LICENSE.txt",
-    "static/js/3.a596a6d5.chunk.js.LICENSE.txt": "/static/js/3.a596a6d5.chunk.js.LICENSE.txt",
+    "static/js/2.c9a43e49.chunk.js.LICENSE.txt": "/static/js/2.c9a43e49.chunk.js.LICENSE.txt",
+    "static/js/3.1a1e2f7c.chunk.js.LICENSE.txt": "/static/js/3.1a1e2f7c.chunk.js.LICENSE.txt",
     "static/media/anypad.9cae7d3e.png": "/static/media/anypad.9cae7d3e.png",
     "static/media/style.module.scss": "/static/media/background38416.90f957bb.png",
     "static/media/bd-home.2c91ee80.png": "/static/media/bd-home.2c91ee80.png",
     "static/media/main.css": "/static/media/bg-game-v2.02d4a20c.png",
     "static/media/btn-background.fcdc569b.png": "/static/media/btn-background.fcdc569b.png",
-    "static/media/btn-leave.465b7b5b.png": "/static/media/btn-leave.465b7b5b.png",
     "static/media/bubbles.c056a59e.svg": "/static/media/bubbles.c056a59e.svg",
     "static/media/first-block.9d39d80c.svg": "/static/media/first-block.9d39d80c.svg",
     "static/media/ic-bsc.svg": "/static/media/ic-bsc.18017344.svg",
@@ -32,9 +31,9 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f90d6c5.js",
-    "static/js/2.bbb248f6.chunk.js",
-    "static/css/main.8cfea134.chunk.css",
-    "static/js/main.7de65058.chunk.js"
+    "static/js/runtime-main.ed5605d9.js",
+    "static/js/2.c9a43e49.chunk.js",
+    "static/css/main.83bdbede.chunk.css",
+    "static/js/main.7d4a58f9.chunk.js"
   ]
 }
